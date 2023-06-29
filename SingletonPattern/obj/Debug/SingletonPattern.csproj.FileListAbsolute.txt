@@ -1,0 +1,8 @@
+D:\Programming Patterns\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\Programming Patterns\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\Programming Patterns\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\Programming Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.AssemblyReference.cache
+D:\Programming Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.SuggestedBindingRedirects.cache
+D:\Programming Patterns\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\Programming Patterns\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\Programming Patterns\SingletonPattern\obj\Debug\SingletonPattern.pdb
